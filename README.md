@@ -1,6 +1,9 @@
 # Flandreware
 Rensenware(レンセンウェア)のFlandre ver [Flandreware]フランドールウェア
 
+to be or not to be
+
+
 これは教育向けに作成して、公開しております。
 悪意のあるように使用しないでください。
 これは研究用に作られたプログラムです。
